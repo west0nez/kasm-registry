@@ -4,8 +4,8 @@ const nextConfig = {
   env: {
     name: 'west0nez Kasm',
     description: 'west0nez Kasm',
-    icon: '/img/logo.svg',
-    listUrl: 'https://github.com/west0nez/kasm-registry,
+    icon: '',
+    listUrl: 'https://west0nez.github.io/kasm-registry',
     contactUrl: 'https://github.com/west0nez/kasm-registry',
   },
   reactStrictMode: true,
