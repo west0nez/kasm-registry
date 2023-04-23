@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'west0nez Kasm',
     description: 'west0nez Kasm',
     icon: '',
-    listUrl: 'https://west0nez.github.io/kasm-registry',
+    listUrl: 'https://west0nez.github.io/kasm-registry/',
     contactUrl: 'https://github.com/west0nez/kasm-registry',
   },
   reactStrictMode: true,
